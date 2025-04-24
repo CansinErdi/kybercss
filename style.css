@@ -1,0 +1,84 @@
+* {
+    text-align: center;
+    margin: 4;
+    padding: 0;
+}
+
+p {
+    font: normal 14px/1.5 Arial, sans-serif;
+    color: #0f0c0c;
+    text-shadow: black 0px 0px 5px;
+}
+
+h1 {
+    font: normal 30px/1.5 Arial, sans-serif;
+    color: #0f0c0c;
+    text-shadow: black 0px 0px 5px;
+}
+
+
+
+.red {
+    text-shadow: black 0px 0px 5px;
+    color: red;
+}
+
+.orange {
+    text-shadow: black 0px 0px 5px;
+    color: orange;
+}
+
+.yellow {
+    text-shadow: black 0px 0px 5px;
+    color: yellow;
+}
+
+.yellow-green {
+    text-shadow: black 0px 0px 5px;
+    color: yellowgreen;
+}
+
+.green {
+    text-shadow: black 0px 0px 5px;
+    color: green;
+}
+
+.cyan {
+    text-shadow: black 0px 0px 5px;
+    color: cyan;
+}
+
+.light-blue {
+    text-shadow: black 0px 0px 5px;
+    color: lightblue;
+}
+
+.blue {
+    text-shadow: black 0px 0px 5px;
+    color: blue;
+}
+
+.indigo {
+    text-shadow: black 0px 0px 5px;
+    color: indigo;
+}
+
+.purple {
+    text-shadow: black 0px 0px 5px;
+    color: purple;
+}
+
+.magenta {
+    text-shadow: black 0px 0px 5px;
+    color: magenta;
+}
+
+.black {
+    text-shadow: black 0px 0px 5px;
+    color: black;
+}
+
+.white {
+    text-shadow: black 0px 0px 5px;
+    color: white;
+}
